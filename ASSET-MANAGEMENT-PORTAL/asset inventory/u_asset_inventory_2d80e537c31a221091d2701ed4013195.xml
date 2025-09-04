@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<unload unload_date="2025-06-29 17:31:09">
+<u_asset_inventory action="INSERT_OR_UPDATE">
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2025-06-29 15:50:39</sys_created_on>
+<sys_id>2d80e537c31a221091d2701ed4013195</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2025-06-29 15:50:39</sys_updated_on>
+<u_asset_name>printer</u_asset_name>
+<u_assigned_to>Abel Tutor</u_assigned_to>
+<u_number/>
+<u_purchase_date>2025-06-13</u_purchase_date>
+<u_status/>
+<u_type/>
+<u_warranty_expire>2025-06-18</u_warranty_expire>
+</u_asset_inventory>
+</unload>

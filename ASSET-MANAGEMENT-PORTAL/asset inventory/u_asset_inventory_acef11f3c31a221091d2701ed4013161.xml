@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<unload unload_date="2025-06-29 17:31:41">
+<u_asset_inventory action="INSERT_OR_UPDATE">
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2025-06-29 15:48:21</sys_created_on>
+<sys_id>acef11f3c31a221091d2701ed4013161</sys_id>
+<sys_mod_count>5</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2025-06-29 15:49:20</sys_updated_on>
+<u_asset_name>Laptop</u_asset_name>
+<u_assigned_to>Abel Tutor</u_assigned_to>
+<u_number/>
+<u_purchase_date>2025-06-30</u_purchase_date>
+<u_status>Lost</u_status>
+<u_type/>
+<u_warranty_expire>2025-07-04</u_warranty_expire>
+</u_asset_inventory>
+</unload>
